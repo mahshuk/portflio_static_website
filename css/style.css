@@ -492,3 +492,78 @@ header section.container nav.right ul li a.button {
 	color: #7a7a7a;
 	margin-top: 20px;
 }
+#projects {
+	background: #FCDA69;
+	padding: 7% 0;
+}
+#projects section.wrapper {
+
+}
+#projects h1 {
+	font-size: 65px;
+    font-family: 'Poppins-Bold';
+    max-width: 450px;
+    line-height: 1.5em;
+}
+#projects section.container {
+	display: flex;
+	justify-content: space-between;
+}
+#projects section.container div.left {
+
+}
+#projects section.container div.left div.flex {
+
+}
+#projects section.container div.left div.flex hr.line {
+	border: 1px solid #000;
+	margin-right: 30px;
+	margin-top: 40px;
+	margin-bottom: 15px;
+}
+#projects section.container div.left div.flex ul {
+	display: flex;
+}
+#projects section.container div.left div.flex ul li {
+
+}
+#projects section.container div.left div.flex ul li h2 {
+	font-size: 25px;
+    font-family: 'Poppins-Bold';
+    max-width: 291px;
+}
+#projects section.container div.left div.flex ul li div.arrow {
+	width: 50px;
+}
+#projects section.container div.left div.flex ul li div.arrow img {
+	display: block;
+	width: 100%;
+}
+#projects section.container div.left div.flex p {
+	font-size: 12px;
+	font-family: 'Poppins-Bold';
+	margin-top: 5px;
+	margin-bottom: 15px;
+}
+#projects section.container div.left div.flex div.image {
+	width: 380px;
+}
+#projects section.container div.left div.flex div.image img  {
+	display: block;
+	width: 100%;
+}
+#projects section.container div.left.second {
+	margin-top: -125px;
+}
+#projects section.container div.left.third {
+	margin-top: -242px;
+}
+#projects section.container div.left div.flex div.round {
+	width: 160px;
+	margin-left: 220px;
+    margin-top: 30px;
+}
+#projects section.container div.left div.flex div.round img {
+	display: block;
+	width: 100%;
+}
