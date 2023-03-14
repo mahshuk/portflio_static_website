@@ -370,3 +370,125 @@ header section.container nav.right ul li a.button {
 	width: 100%;
 	display: block;
 }
+#experiences {
+	padding: 7% 0;
+}
+#experiences section.wrapper {
+
+}
+#experiences section.container {
+	display: flex;
+	justify-content: space-between;
+}
+#experiences section.container section.left {
+
+}
+#experiences section.container section.left div.top {
+
+}
+#experiences section.container section.left div.top h6 {
+	transform: rotate(-20deg);
+    top: -100px;
+    position: relative;
+    color: #8873EF;
+    right: 27px;
+    font-size: 15px;
+}
+#experiences section.container section.left div.top h1 {
+	font-size: 65px;
+    font-weight: 700;
+    max-width: 450px;
+    line-height: 1.5em;
+    margin-top: -17px;
+    margin-bottom: 5px;
+}
+#experiences section.container section.left div.top div.help {
+
+}
+#experiences section.container section.left div.top div.help ul {
+	display: flex;
+}
+#experiences section.container section.left div.top div.help ul li {
+	margin-top: 25px;
+}
+#experiences section.container section.left div.top div.help ul li div.arrow {
+
+}
+#experiences section.container section.left div.top div.help ul li p {
+	max-width: 380px;
+	margin-left: 45px;
+	font-size: 13px;
+	color: #7a7a7a;
+	margin-bottom: 60px;
+	
+}
+#experiences section.container section.left div.bottom {
+
+}
+#experiences section.container section.left div.bottom h2 {
+	font-size: 35px;
+	font-weight: 600;
+	margin-bottom: 50px;
+}
+#experiences section.container section.left div.bottom ul {
+	display: flex;
+	flex-wrap: wrap;
+}
+#experiences section.container section.left div.bottom ul li {
+	width: 32%;
+	
+}
+#experiences section.container section.left div.bottom ul li div.image_round {
+	width: 70px;
+	
+}
+#experiences section.container section.left div.bottom ul li div.image_round img {
+	display: block;
+	width: 100%;
+}
+#experiences section.container section.left div.bottom ul li h5 {
+	margin-bottom: 39px;
+    margin-top: 23px;
+	font-size: 17px;
+	font-weight: 600;
+	max-width: 136px;
+}
+#experiences section.container section.right {
+	width: 46%;
+}
+#experiences section.container section.right h3 {
+	font-size: 32px;
+	font-weight: 600;
+	margin-left: -13px;
+    margin-top: 65px;
+	margin-bottom: 40px;
+}
+#experiences section.container section.right div.first {
+
+}
+#experiences section.container section.right hr.line {
+	border: 1px solid #000;
+    margin-left: -10px;
+    margin-right: 30px;
+	margin-top: 19px;
+    margin-bottom: 22px;
+}
+#experiences section.container section.right div.designer ul {
+	display: flex;
+}
+#experiences section.container section.right div.designer ul li {
+	width: 36%;
+}
+#experiences section.container section.right div.designer ul li span.year {
+	font-weight: 600;
+	display: inline-block;
+	font-size: 15px;
+}
+#experiences section.container section.right div.designer ul li h4 {
+	font-weight: 600;
+	font-size: 20px;
+}
+#experiences section.container section.right div.designer h5 {
+	color: #7a7a7a;
+	margin-top: 20px;
+}
