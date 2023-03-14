@@ -268,3 +268,105 @@ header section.container nav.right ul li a.button {
 	width: 100%;
 
 }
+#services {
+	background: #FCDA69;
+	padding: 7% 0;
+}
+#services section.wrapper {
+
+}
+#services section.content {
+	display: flex;
+	justify-content: space-between;
+}
+#services section.content section.left {
+
+}
+#services section.content section.left h6 {
+	transform: rotate(-20deg);
+    top: -90px;
+    position: relative;
+    color: #8873EF;
+    right: 16px;
+    font-size: 15px;
+}
+#services section.content section.left h1 {
+	font-size: 65px;
+    font-family: 'Poppins-Bold';
+    max-width: 450px;
+    line-height: 1.3em;
+    margin-top: -17px;
+    margin-bottom: 5px;
+}
+#services section.content section.left div.help {
+	
+}
+#services section.content section.left div.help ul {
+	display: flex;
+}
+#services section.content section.left div.help ul li {
+
+}
+#services section.content section.left div.help ul  li div.arrow {
+
+}
+#services section.content section.left div.help ul li p {
+	max-width: 380px;
+	margin-left: 45px;
+	font-size: 13px;
+	color: #5d5026:
+}
+#services section.content section.left div.help div.image {
+	width: 160px;
+    margin-top: 200px;
+}
+#services section.content section.left div.help div.image img  {
+	width: 100%;
+	display: block;
+}
+#services section.content section.right {
+
+}
+#services section.content section.right div.first {
+
+}
+#services section.content section.right div.first hr.line {
+	border: 1px solid #000;
+    margin-left: -200px;
+    margin-right: 30px;
+}
+#services section.content section.right div.first ul {
+	display: flex;
+}
+#services section.content section.right div.first ul li {
+	margin-right: 55px;
+    margin-bottom: 30px;
+}
+#services section.content section.right div.first ul li h4 {
+	font-family: 'Poppins-Bold';
+	margin-top: 20px;
+	font-size: 18px;
+}
+#services section.content section.right div.first ul li h3 {
+	font-weight: 800;
+    font-size: 50px;
+    max-width: 400px;
+}
+#services section.content section.right div.second {
+	display: flex;
+	justify-content: space-between;
+}
+#services section.content section.right div.second h5 {
+	font-size: 15px;
+	font-weight: 600;
+	margin-left: 80px;
+}
+#services section.content section.right div.second div.violet {
+	width: 50px;
+    margin-top: -42px;
+    margin-bottom: 28px;
+}
+#services section.content section.right div.second div.violet img {
+	width: 100%;
+	display: block;
+}
