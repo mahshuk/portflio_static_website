@@ -963,7 +963,7 @@ footer section.content section.bottom ul li a {
 	#spotlight section.content div.right div.quote div.play {
 		width: 115px;
 		top: 380px;
-		right: 439px;
+		right: 259px;
 	}
 	header section.container nav.middle ul li {
 		margin-right: 16px;
@@ -1024,4 +1024,46 @@ footer section.content section.bottom ul li a {
 		font-size: 60px;
 		max-width: 460px;
 	}
+	#testimonial section.content section.bottom div.midd p {
+		font-size: 14px;
+	}
+	#contact section.container div.left h1 {
+		font-size: 48px;
+	}
+	#contact section.container div.left hr.line {
+		border: 1px solid #000;
+		margin-bottom: 22px;
+		margin-top: 18px;	
+		width: 88%;
+	}
+	#contact section.container div.right div.circle {
+		height: 450px;
+		width: 450px;
+	}
+	#contact section.container div.right div.flex ul {
+		margin-top: 148px;
+	}
+	#contact section.container div.right div.arrow {
+		width: 140px;
+		margin-left: 62px;
+		margin-top: -49px;
+	}
+	#contact div hr.big-line {
+		border-bottom: 2px solid #000;
+		margin-top: 40px;
+		width: 85%;
+	}
+	footer section.content section.top ul li p {
+		font-size: 14px;
+	}
+	footer section.content section.top ul li {
+		width: 12%;
+	}
+	footer section.content section.top ul li div.social ul li {
+		width: 10%;
+		margin-right: 14px;
+	}	
+}
+@media all and (max-width: 1080px) {
+	
 }
