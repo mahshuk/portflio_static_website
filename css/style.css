@@ -1147,7 +1147,173 @@ footer section.content section.bottom ul li a {
 	}
 }
 @media all and (max-width: 980px) {
+	header section.container nav.middle ul {
+		display: none;
+	}
+	#spotlight section.content div.left h2 {
+		transform: rotate(-28deg);
+		top: 6px;
+		right: 21px;
+		font-size: 16px;
+		width: 12%;
+	}
+	#spotlight section.content div.left div.box div.arrow {
+		width: 5%;
+	}
+	#spotlight section.content div.left div.box div.telegram {
+		width: 20%;
+	}
+	#spotlight section.content div.left div.adds ul li {
+		margin-left: 0px;
+		width: 22%;
+	}
+	#spotlight section.content div.left div.box {
+		margin-top: 24px;
+		margin-bottom: 50px;
+	}
+	#spotlight section.content div.left h1 {
+		max-width: 100%;
+	}
+	#spotlight section.content {
+		background: none;
+	}
 	#projects section.container div.left {
 		width: 100%;
+	}
+	#spotlight section.content div.right {
+		display: none;
+	}
+	#services section.content section.left h1 {
+		font-size: 48px;
+		max-width: 340px;
+	}
+	#services section.content section.left div.help ul li p {
+		max-width: 100%;
+		margin-left: 21px;
+	}
+	#services section.content section.right div.first ul li {
+		margin-right: 30px;
+	}
+	#services section.content section.right div.first ul li h3 {
+		font-weight: 800;
+		font-size: 25px;
+		max-width: 85%;
+		margin-bottom: 8px;
+	}
+	#services section.content section.right div.second h5 {
+		margin: 0 0 40px 65px;
+	}
+	#services section.content section.right div.second div.violet {
+		margin-top: -18px;
+	}
+	#experiences {
+		padding: 12% 0;
+	}
+	#experiences section.container {
+		flex-wrap: wrap;
+	}
+	#experiences section.container section.left {
+		width: 100%;
+	}
+	#experiences section.container section.right {
+		width: 100%;
+	}
+	#experiences section.container section.left div.top h6 {
+		transform: rotate(-30deg);
+		top: -20px;
+		right: 27px;
+		font-size: 12px;
+		width: 18%;
+	}
+	#experiences section.container section.left div.top div.help ul li p {
+		max-width: 70%;
+	}
+	#experiences section.container section.left div.top h1 {
+		font-size: 48px;
+		width: 98%;
+	}
+	#experiences section.container section.right h3 {
+		font-size: 24px;
+	}
+	#experiences section.container section.left div.bottom h2 {
+		font-size: 24px;
+	}
+	#experiences section.container section.left div.bottom ul li {
+		width: 24%;
+	}
+	#experiences section.container section.right h3 {
+		margin: 50px 0 28px 0;
+	}
+	#projects h1 {
+		font-size: 48px;
+	}
+	#projects section.container div.left div.flex hr.line {
+		margin: 36px 0 18px 0;
+	}
+	#projects section.container div.left div.flex ul li h2 {
+		font-size: 20px;
+		max-width: 100%;
+		margin-right: 16px;
+	}
+	#testimonial section.content section.top {
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	#testimonial section.content section.top div.left {
+		width: 40%;
+	}
+	#testimonial section.content section.top div.midd {
+		width: 48%;
+		margin-top: 36px;
+	}
+	#testimonial section.content section.top div.left h5 {
+		transform: rotate(-30deg);
+		top: -4px;
+    	right: 39px;
+		font-size: 12px;
+		width: 46%;
+	}
+	#testimonial section.content section.top div.left h1 {
+		font-size: 40px;
+	}
+	#testimonial section.content section.top div.midd ul li p {
+		max-width: 100%;
+		width: 100%;
+		margin-bottom: 0;
+	}
+	#testimonial section.content section.top div.right div.arrow_down {
+		margin-top: 36px;
+	}
+	#testimonial section.content section.bottom div.midd hr.line {
+		margin-top: 0px;
+	}
+	#testimonial section.content section.bottom div.midd p {
+		font-size: 12px;
+		margin-top: 16px;
+	}
+	#testimonial section.content section.bottom div.midd h4 {
+		font-size: 16px;
+		margin-top: 18px;
+		margin-bottom: 8px;
+	}
+	#testimonial section.content section.bottom div.midd h5 {
+		font-size: 12px;
+	}
+	#testimonial section.content section.bottom div.midd h5 {
+		font-size: 12px;
+		margin-bottom: 14px;
+	}
+	#contact section.container div.left h5 {
+		transform: rotate(-30deg);
+		top: -28px;
+		right: 39px;
+		font-size: 12px;
+	}
+	#contact section.container {
+		flex-wrap: wrap;
+	}
+	#contact section.container div.left h1 {
+		font-size: 48px;
+		max-width: 100%;
 	}
 }
