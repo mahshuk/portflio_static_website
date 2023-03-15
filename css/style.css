@@ -811,3 +811,138 @@ header section.container nav.right ul li a.button {
 	margin-top: 40px;
 	width: 87%;
 }
+footer {
+	padding: 7% 0;
+}
+footer section.wrapper {
+
+}
+footer section.content {
+	
+	
+}
+footer section.content section.top {
+	margin-bottom: 25px;
+    border-bottom: 1px solid #f1efef;
+}
+footer section.content section.top ul.flex {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 20px;
+}
+footer section.content section.top ul li:first-child {
+	width: 35%;
+}
+footer section.content section.top ul li:last-child {
+	width: 28%;
+}
+footer section.content section.top ul li {
+	width: 10%;
+}
+footer section.content section.top ul li div.logo {
+
+}
+footer section.content section.top ul li div.logo img {
+
+}
+footer section.content section.top ul li  p {
+	color: #7a7a7a;
+	font-weight: 700;
+	font-size: 16px;
+}
+footer section.content section.top ul li h6 {
+	font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+footer section.content section.top ul li a {
+	display: block;
+	margin-bottom: 6px;
+	font-weight: 600;
+}
+footer section.content section.top ul li a.size a {
+	display: block;
+	font-size: 16px;
+	font-weight: 600;
+	margin-bottom: 14px;
+}
+footer section.content section.top ul li span {
+	font-weight: 600;
+	font-size: 14px;
+}
+footer section.content section.top ul li a.inline {
+	font-weight: 600;
+	font-size: 12px;
+	letter-spacing: 1px;
+}
+footer section.content section.top ul li span.info {
+	font-size: 13px;
+}
+footer section.content section.top ul li span.info a {
+
+}
+footer section.content section.top ul li div.flex {
+	display: flex;
+	align-items: center;
+	margin-bottom: 19px;
+    margin-top: 24px;
+}
+footer section.content section.top ul li span.phone {
+	display: block;
+	margin-right: 4px;
+}
+footer section.content section.top ul li a.inline {
+	display: inline;
+	font-size: 13px;
+}
+footer section.content section.top ul li span.phone img {
+	display: block;
+	width: 100%;
+}
+footer section.content section.top ul li span.ph-no {
+	font-size: 16px;
+	letter-spacing: 1px;
+}
+footer section.content section.top ul li div.social {
+
+}
+footer section.content section.top ul li div.social ul {
+	display: flex;
+    align-items: center;
+	justify-content: flex-start;
+}
+footer section.content section.top ul li div.social ul li {
+	width: 15%;
+	margin-right: 10px;
+}
+footer section.content section.top ul li div.social ul li a {
+	display: block;
+}
+footer section.content section.top ul li div.social ul li a img {
+	display: block;
+	width: 100%;
+	height: 35px;
+}
+footer section.content section.bottom {
+	display: flex;
+	justify-content: space-between;
+}
+footer section.content section.bottom p.left {
+
+}
+footer section.content section.bottom p.left a {
+	font-weight: 800;
+}
+footer section.content section.bottom ul  {
+	display: flex;	
+} 
+footer section.content section.bottom ul li {
+	margin-right: 25px;
+}
+footer section.content section.bottom ul li:last-child {
+	margin-right: 0;
+} 
+footer section.content section.bottom ul li a {
+	font-weight: 800;
+}
+
