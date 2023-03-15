@@ -177,6 +177,7 @@ header section.container nav.right ul li a.button {
 }
 #spotlight section.content div.left div.box {
 	display: flex;
+	align-items: center;
 	margin-top: 30px;
 	margin-bottom: 65px;
 	
@@ -945,4 +946,82 @@ footer section.content section.bottom ul li:last-child {
 footer section.content section.bottom ul li a {
 	font-weight: 800;
 }
-
+@media all and (max-width: 1280px) {
+	#spotlight section.content {
+		background-position: 479px 10px;
+		background-size: 500px;
+	}
+	#spotlight section.content div.left p {
+		max-width: 445px;
+	}
+	#spotlight section.content div.left div.box div.partifolio {
+		margin-left: 31px;
+	}
+	#spotlight section.content div.right div.quote h3 {
+		margin: 0px 10px 0 0;
+	}
+	#spotlight section.content div.right div.quote div.play {
+		width: 115px;
+		top: 380px;
+		right: 439px;
+	}
+	header section.container nav.middle ul li {
+		margin-right: 16px;
+		font-size: 14px;
+	}
+	header section.container nav.right ul li {
+		margin-right: 16px;
+		font-size: 14px;
+	}
+	#projects section.container {
+		flex-wrap: wrap;
+	}
+	#projects section.container div.left {
+		width: 48%;
+		margin-bottom: 40px;
+	}
+	#projects section.container div.left.second {
+		margin: 0;
+	}
+	#projects section.container div.left.third {
+		margin: 0;
+	}
+	#projects section.container div.left div.flex div.round {
+		display: none;
+	}
+	#services section.content section.left {
+		width: 49%;
+	}
+	#services section.content section.right {
+		width: 49%;
+	}	
+	#services section.content section.right div.first hr.line {
+		margin-left: 0;
+		margin-right:0;
+	}
+	#services section.content section.right div.first ul li h3 {
+		font-weight: 800;
+		font-size: 34px;
+	}
+	#services section.content section.right div.first ul li {
+		margin-bottom: 8px;
+	}
+	#services section.content section.right div.second h5 {
+		font-size: 13px;
+		margin: 0 0 40px 90px;
+	}
+	#services section.content section.left div.help div.image {
+		width: 116px;
+		margin-top: 100px;
+	}
+	#experiences section.container section.left div.top div.help ul li p {
+		margin-left: 18px;
+	}
+	#experiences section.container section.left div.bottom ul li {
+		width: 28%;
+	}
+	#testimonial section.content section.top div.left h1 {
+		font-size: 60px;
+		max-width: 460px;
+	}
+}
