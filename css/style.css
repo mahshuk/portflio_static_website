@@ -1344,3 +1344,101 @@ footer section.content section.bottom ul li a {
 		width: 34%;
 	}
 }
+
+@media all and (max-width: 768px) {
+	header section.container nav.right ul li a.button {
+		width: 100px;
+	}
+	#spotlight section.content div.left div.box div.telegram {
+		width: 24%;
+	}
+	#spotlight section.content div.left div.adds ul li {
+		width: 32%;
+	}
+	#spotlight section.content div.left div.adds ul {
+		justify-content: space-between;
+		width: 33%;
+	}
+	#services section.content {
+		flex-wrap: wrap;
+	}
+	#services section.content section.left h1 {
+		font-size: 40px;
+		max-width: 100%;
+	}
+	#services section.content section.left h6 {
+		transform: rotate(-30deg);
+		top: -138px;
+		right: 57px;
+		font-size: 12px;
+	}
+	#services section.content section.left {
+		width: 100%;
+	}
+	#services section.content section.right {
+		width: 100%;
+
+	}
+	#services section.content section.left div.help div.image {
+		display: none;
+	}
+	#services section.content section.left div.help ul li {
+		margin-bottom: 24px;
+	}
+	#services section.content section.right div.first ul {
+		align-items: baseline;
+	}
+	#services section.content section.right div.second h5 {
+		margin: 0 0 0px 56px;
+	}
+	#services section.content section.right div.second {
+		width: 40%;
+		align-items: center;
+		margin-bottom: 14px;
+	}
+	#services section.content section.right div.second div.violet {
+		width: 42px;
+		margin-bottom: 0px;
+		margin-top: 0;
+	}
+	#projects h1 {
+		font-size: 40px;
+	}
+	#testimonial section.content section.top div.left h5 {
+		top: 7px;
+	}
+	#testimonial section.content section.bottom {
+		align-items: center;
+	}
+	#testimonial section.content section.bottom div.midd h4 {
+		font-size: 14px;
+		margin-top: 8px;
+		margin-bottom: 2px;
+	}
+	#contact section.container div.left h1 {
+		font-size: 40px;
+	}
+	#contact section.container div.left h5 {
+		top: -82px;
+		right: 57px;
+	}
+	#contact section.container div.left ul li h3 {
+		font-size: 14px;
+	}
+	footer section.content section.top ul li h6 {
+		font-size: 18px;
+	}
+	footer section.content section.top ul li a {
+		font-size: 13px;
+	}
+	footer section.content section.top ul li:first-child {
+		width: 48%;
+	}
+	footer section.content section.top ul li div.logo {
+		margin-bottom: 6px;
+	}
+	footer section.content section.top ul li.mt {
+		width: 45%;
+	}
+	
+}
