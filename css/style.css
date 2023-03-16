@@ -1598,3 +1598,168 @@ footer section.content section.bottom ul li a {
 		margin-right: 14px;
 	}
 }
+@media all and (max-width: 480px) {
+	#spotlight section.content div.left h1 {
+		max-width: 100%;
+		font-size: 36px;
+	}
+	#spotlight section.content div.left h2 {
+		font-size: 10px;
+	}
+	#spotlight section.content div.left div.box div.telegram {
+		width: 42%;
+	}
+	#spotlight section.content div.left div.adds ul {
+		width: 42%;
+	}
+	#services section.content section.left h1 {
+		font-size: 32px;
+	}
+	#services section.content section.left h6 {
+		top: -81px;
+		right: 34px;
+		font-size: 10px;
+	}
+	#services section.content section.left div.help ul li p {
+		margin-left: 14px;
+		font-size: 12px;
+	}
+	#experiences section.container section.left div.top h1 {
+		font-size: 28px;
+	}
+	#experiences section.container section.left div.top div.help ul li p {
+		font-size: 11px;
+	}
+	#services section.content section.right div.first ul li h4 {
+		margin-top: 18px;
+		font-size: 12px;
+	}
+	#experiences section.container section.left div.top h6 {
+		top: -24px;
+		width: 30%;
+		font-size: 9px;
+		right: 19px;
+	}
+	#experiences section.container section.right div.designer ul li h4 {
+		font-size: 14px;
+		margin-top: 8px;
+	}
+	#experiences section.container section.left div.bottom ul li div.image_round {
+		width: 60px;
+	}
+	#experiences section.container section.left div.bottom ul li h5 {
+		font-size: 12px;
+	}
+	#experiences section.container section.right div.designer h5 {
+		margin: 20px 0 6px;
+	}
+	#experiences section.container section.right hr.line {
+		margin-top: 2px;
+		margin-bottom: 2px;
+	}
+	#projects section.container div.left div.flex div.image {
+		width: 326px;
+	}
+	#projects h1 {
+		font-size: 28px;
+	}
+	#projects section.container div.left div.flex ul li h2 {
+		font-size: 17px;
+	}
+	#testimonial section.content section.top div.left h5 {
+		top: -16px;
+		right: 17px;
+	}
+	#contact section.container div.left h5 {
+		top: -41px;
+		right: 29px;
+	}
+	#contact section.container div.left h1 {
+		font-size: 35px;
+	}
+	#contact section.container div.left ul li div.email {
+		width: 60px;
+	}
+	#contact section.container div.left ul li div.location {
+		width: 60px;
+	}
+	#testimonial section.content section.bottom div.left {
+		width: 68%;
+		margin: 0 auto;
+	}
+	#testimonial section.content section.top div.left h5 {
+		top: -11px;
+		right: 23px;
+		font-size: 9px;
+	}
+	#testimonial section.content section.bottom div.midd {
+		width: 100%;
+	}
+	#testimonial section.content section.bottom div.left div.person_1 {
+		margin: -49px 0 20px 0;
+	}
+	#testimonial section.content section.bottom div.right {
+		display: block;
+		width: 68%;
+		margin: 18px auto;
+	}
+	#contact section.container div.left h1 {
+		font-size: 24px;
+	}
+	#contact section.container div.left h5 {
+		top: -42px;
+		right: 36px;
+		font-size: 8px;
+	}
+	#contact section.container div.left ul li h3 {
+		font-size: 12px;
+		margin-top: 8px;
+	}
+	#contact section.container div.left ul li div.email {
+		width: 48px;
+	}
+	#contact section.container div.left ul li div.location {
+		width: 48px;
+	}
+	#contact section.container div.right ul li h4 {
+		font-weight: 900;
+		font-size: 16px;
+	}
+	#contact section.container div.right div.arrow {
+		margin-left: 28px;
+		margin-top: 34px;
+	}
+	footer section.content section.top ul li {
+		width: 48%;
+	}
+	footer section.content section.top ul li.mt {
+		width: 54%;
+		margin-top: 0;
+	}
+	footer section.content section.top ul li div.flex {
+		margin-bottom: 18px;
+		margin-top: 3px;
+	}
+	footer section.content section.bottom {
+		flex-wrap: wrap;
+	}
+	footer section.content section.bottom p.left {
+		width: 100%;
+		text-align: center;
+	}
+	footer section.content section.bottom p.left a {
+		font-weight: 800;
+		text-align: center;
+		display: block;
+	}
+	footer section.content section.bottom ul {
+		display: flex;
+		margin: 16px auto 0;
+	}
+	footer section.content section.bottom ul li {
+		margin-right: 10px;
+	}
+	footer section.content section.bottom ul li a {
+		font-size: 11px;
+	}
+}
