@@ -841,10 +841,11 @@ footer section.content section.top ul li {
 	width: 10%;
 }
 footer section.content section.top ul li div.logo {
-
+	max-width: 150px;
 }
 footer section.content section.top ul li div.logo img {
-
+	width: 100%;
+	display: block;
 }
 footer section.content section.top ul li  p {
 	color: #7a7a7a;
@@ -1440,5 +1441,160 @@ footer section.content section.bottom ul li a {
 	footer section.content section.top ul li.mt {
 		width: 45%;
 	}
-	
+
+}
+@media all and (max-width: 640px) {
+	header section.container h1.left img {
+		width: 67%; 
+	}
+	header section.container nav.right ul li a.button {
+		width: 85px;
+	}
+	header section.container nav.right ul li a.button {
+		padding: 4px 0 3px 0px;
+	}
+	#spotlight {
+		padding: 24px 0;
+	}
+	#spotlight section.content div.left h1 {
+		max-width: 92%;
+		font-size: 48px;
+	}
+	#spotlight section.content div.left div.box div.telegram {
+		width: 30% 
+	}
+	#spotlight section.content div.left h2 {
+		right: 14px; 
+	}
+	#spotlight section.content div.left div.adds ul {
+		width: 36%;
+	}
+	#services section.content section.left h6 {
+		top: -109px;
+		right: 37px;
+	}
+	#experiences section.container section.left div.top h6 {
+		top: -15px;
+		right: 13px;
+	}
+	#experiences section.container section.left div.bottom ul li {
+		width: 29%;
+	}
+	#experiences section.container section.left div.bottom ul li {
+		width: 33%;
+	}
+	#testimonial section.content section.top div.left h5 {
+		top: -29px;
+		right: 19px;
+	}
+	#testimonial section.content section.top div.left {
+		width: 100%;
+	}
+	#testimonial section.content section.top div.midd {
+		width: 100%;
+		margin-top: 36px;
+	}
+	#testimonial section.content section.top div.right {
+		width: 42%;
+		margin: 0 auto;
+	}
+	#testimonial section.content section.bottom {
+		flex-wrap: wrap;
+	}
+	#testimonial section.content section.bottom div.left {
+		width: 39%;
+	}
+	#testimonial section.content section.bottom div.midd {
+		width: 60%;
+	}
+	#testimonial section.content section.bottom div.right {
+		display: none;
+	}
+	#contact {
+		background: #FCDA69;
+		padding: 10% 0;
+	}
+	#contact div hr.big-line {
+		width: 100%;
+	}
+	#contact section.container div.right div.arrow {
+		width: 70px; }
+	#contact section.container div.left h5 {
+		top: -66px;
+		right: 38px;
+	}
+	#services section.content section.right div.first hr.line {
+		margin-bottom: 0px;
+	}
+	#services section.content section.right div.first ul li h3 {
+		font-size: 20px;
+	}
+	#experiences section.container section.left div.top div.help ul li p {
+		max-width: 100%;
+	}
+	#experiences section.container section.left div.bottom ul li div.image_round {
+		margin: 0 auto;
+	}
+	#experiences section.container section.left div.bottom ul li h5 {
+		text-align: center;
+	}
+	#experiences section.container section.right hr.line {
+		margin-left: 0px;
+		margin-right: 25px;
+		margin-top: 8px;
+		margin-bottom: 8px;
+	}
+	#testimonial section.content section.top div.midd ul li p {
+		max-width: 100%;
+		width: 90%;
+		margin-left: 12px;
+		margin-bottom: 0;
+	}
+	#testimonial section.content section.top div.right div.arrow_down {
+		margin-top: 28px;
+		width: 130px;
+	}
+	footer section.content section.top ul li:first-child {
+		width: 100%;
+	}
+	footer section.content section.top ul li div.logo {
+		margin: 0 auto 18px;
+	}
+	footer section.content section.top ul li {
+		width: 26%;
+	}
+	footer section.content section.top ul li.mt {
+		width: 40%;
+		margin-top: 0;
+	}
+	footer section.content section.top ul li span.ph-no {
+		font-size: 12px;
+	}
+	footer section.content section.top ul li span.us {
+		display: none;
+	}
+	footer section.content section.top ul li h6 {
+		font-size: 16px;
+		margin-top: 36px;
+	}
+	footer section.content section.top ul li a {
+		font-size: 12px;
+		margin-bottom: 3px;
+	}
+	footer section.content section.top ul li div.social ul {
+		margin: 0 auto;
+	}
+	footer section.content section.top ul li div.social ul li {
+		width: 15%;
+		margin-right: 13px;
+	}
+	footer section.content section.bottom p.left {
+		font-size: 13px;
+	}
+	footer section.content section.bottom ul li a {
+		font-size: 13px;
+	}
+	footer section.content section.bottom ul li {
+		margin-right: 14px;
+	}
 }
