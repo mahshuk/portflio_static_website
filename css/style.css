@@ -947,6 +947,8 @@ footer section.content section.bottom ul li:last-child {
 footer section.content section.bottom ul li a {
 	font-weight: 800;
 }
+/* responsive started */
+
 @media all and (max-width: 1280px) {
 	#spotlight section.content {
 		background-position: 479px 10px;
@@ -1761,5 +1763,168 @@ footer section.content section.bottom ul li a {
 	}
 	footer section.content section.bottom ul li a {
 		font-size: 11px;
+	}
+}
+@media (max-width: 360px){
+	#spotlight section.content div.left h1 {
+		max-width: 100%;
+		font-size: 32px;
+	}
+	#spotlight section.content div.left p {
+		max-width: 445px;
+		font-size: 11px;
+		margin: 0 0 0 6px;
+	}
+	#spotlight section.content div.left div.box div.telegram a.button {
+		font-size: 12px;
+	}
+	#spotlight section.content div.left div.box div.partifolio a {
+		font-size: 12px;
+	}
+	#spotlight section.content div.left div.adds h4 {
+		margin-right: 14px;
+		font-size: 12px;
+	}
+	#services section.content section.left h1 {
+		font-size: 22px;
+	}
+	#services section.content section.left h6 {
+		top: -78px;
+		right: 31px;
+		font-size: 8px;
+	}
+	#services section.content section.right div.first ul li h3 {
+		font-size: 16px;
+		max-width: 100%;
+	}
+	#services section.content section.right div.second h5 {
+		margin: 0 5px 0px 50px;
+	}
+	#experiences section.container section.left div.top h1 {
+		font-size: 22px;
+		margin: 0 0 0 5px;
+	}
+	#experiences section.container section.left div.top h6 {
+		top: -8px;
+		right: 15px;
+	}
+	#experiences section.container section.left div.bottom h2 {
+		font-size: 22px;
+	}
+	#experiences section.container section.left div.bottom ul li h5 {
+		font-size: 10px;
+		margin: 18px 0;
+	}
+	#experiences section.container section.right h3 {
+		font-size: 22px;
+	}
+	#experiences section.container section.right div.designer ul li span.year {
+		font-weight: 800;
+		display: inline-block;
+		font-size: 12px;
+	}
+	#experiences section.container section.right div.designer h5 {
+		margin: 12px 0 6px;
+		font-size: 12px;
+	}
+	#experiences section.container section.right div.designer ul li h4 {
+		font-size: 13px;
+	}
+	#projects h1 {
+		font-size: 22px;
+	}
+	#projects section.container div.left div.flex hr.line {
+		margin: 27px 0 12px 0;
+	}
+	#projects section.container div.left div.flex ul li div.arrow {
+		width: 40px;
+	}
+	#projects section.container div.left div.flex div.image {
+		width: 260px;
+		margin-top: 24px;
+	}
+	#testimonial section.content section.top div.left h1 {
+		font-size: 22px;
+		margin: 0 0 0 6px;
+	}
+	#testimonial section.content section.top div.left h5 {
+		top: -16px;
+		right: 23px;
+		font-size: 8px;
+	}
+	#testimonial section.content section.top div.midd ul li p {
+		max-width: 100%;
+		width: 100%;
+		font-size: 10px;
+	}
+	#contact section.container div.left h1 {
+		font-size: 22px;
+	}
+	#contact section.container div.left h5 {
+		top: -34px;
+		right: 31px;
+	}
+	#contact section.container div.right div.circle {
+		height: 250px;
+		width: 250px;
+		margin: 20px auto 0;
+	}
+	#contact section.container div.right ul li div.hand {
+		width: 37px;
+		margin-left: 20px;
+		margin-top: 36px;
+	}
+	#contact section.container div.right ul li h4 {
+		font-size: 17px;
+		margin-top: 50px;
+		margin-left: 16px;
+	}
+	#contact section.container div.right div.arrow {
+		margin-left: 22px;
+		margin-top: 8px;
+	}
+	footer section.content section.top ul li div.social ul {
+		margin: 0 auto;
+		width: 100%;
+		justify-content: space-between;
+	}
+	footer section.content section.top ul.flex {
+		justify-content: center;
+	}
+	footer section.content section.top ul li div.logo {
+		max-width: 110px;
+	}
+	footer section.content section.top ul li p {
+		font-size: 12px;
+		text-align: center;
+	}
+	footer section.content section.top ul li {
+		text-align: center;
+	}
+	footer section.content section.top ul li h6 {
+		font-size: 14px;
+		margin-top: 36px;
+	}
+	footer section.content section.top ul li a.inline {
+		font-size: 10px;
+	}
+	footer section.content section.top ul li span.ph-no {
+		font-size: 10px;
+		letter-spacing: 0;
+	}
+	footer section.content section.top ul li a {
+		font-size: 10px;
+		margin-bottom: 5px;
+	}
+	footer section.content section.top ul li span.phone {
+		margin-right: 6px;
+		width: 20px;
+	}
+	footer section.content section.top ul li h6 {
+		font-size: 14px;
+		margin: 22px 0 8px 0;
+	}
+	footer section.content section.bottom p.left {
+		font-size: 12px;
 	}
 }
